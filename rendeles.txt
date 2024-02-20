@@ -1,0 +1,18 @@
+Piros asztal rendelései:
+Étel4
+Étel2
+Étel1
+Étel3
+
+Zöld asztal rendelései:
+Étel4
+Étel2
+
+Kék asztal rendelései:
+Étel4
+Étel2
+
+Fehér asztal rendelései:
+Étel4
+Étel2
+Étel1
